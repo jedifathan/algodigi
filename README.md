@@ -15,5 +15,5 @@
 ## Agile Learners Go Digital
 - Minggu 9 (23 September 2023): Project dimulai, pembagian kelompok, desain tampilan
 - Minggu 10 (30 September 2023): Perancangan sistem inti project
-- Minggu 11 (7 September 2023): Finalisasi project (debugging & testing)
+- Minggu 11 (7 Oktober 2023): Finalisasi project (debugging & testing)
 - Minggu 12 (14 Oktober 2023): Presentasi project
